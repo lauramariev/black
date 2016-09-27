@@ -1,4 +1,3 @@
-see on [viide](https://google.com)
 
 ## retsept
 - nimi
