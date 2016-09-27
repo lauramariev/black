@@ -7,12 +7,17 @@
 - aeg
 - kategooria
 
-### koostis
+#### koostis
 - nimi
 - kogus
 - ühik
 
-## kasutaja
+### kasutaja
 - nimi
 - epost
 - id
+
+## toimingud/vaated
+- avaleht
+- retsepti sisestus
+- retsepti otsing
