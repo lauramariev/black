@@ -2,10 +2,11 @@
 ## retsept
 - nimi
 - pilt
-- juhend
-- kogus
-- aeg
-- kategooria
+- kirjeldus
+- valmistamise-juhend
+- porstjonite arv
+- valmistamise-aeg
+- kategooriad
 
 #### koostis
 - nimi
