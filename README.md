@@ -11,3 +11,8 @@
 - nimi
 - kogus
 - ühik
+
+## kasutaja
+- nimi
+- epost
+- id
